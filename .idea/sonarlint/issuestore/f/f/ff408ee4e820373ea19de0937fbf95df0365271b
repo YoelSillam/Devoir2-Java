@@ -1,0 +1,22 @@
+
+`	java:S112B"FDefine and throw a dedicated exception instead of using a generic one.(Ò’¶Âşÿÿÿÿ
+`	java:S112D"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+E
+java:S3740'"/Provide the parametrized type for this generic.(úê˜
+J
+java:S37401"/Provide the parametrized type for this generic.(Çç™–øÿÿÿÿ
+Z
+java:S2147C"DCombine this catch with the one at line 65, which has the same body.(É®£
+G
+java:S2440=",Remove this instantiation of "ConnexionBDD".(ÜØÜ„úÿÿÿÿ
+m
+java:S3776J"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Ç÷›¾úÿÿÿÿ
+‰
+java:S1130J"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(Ç÷›¾úÿÿÿÿ
+I
+java:S2864c"4Iterate over the "entrySet" instead of the "keySet".(´àè0
+P
+java:S2864€"4Iterate over the "entrySet" instead of the "keySet".( Ùğ”øÿÿÿÿ
+i	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½¤ÿÈıÿÿÿÿ
+P
+java:S2864“"4Iterate over the "entrySet" instead of the "keySet".(µòÀúÿÿÿÿ
